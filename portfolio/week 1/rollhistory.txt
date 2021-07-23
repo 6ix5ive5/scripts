@@ -1,0 +1,26 @@
+DM: Whats this? a d?
+Ive never seen a  sided dice before. Re-Roll this one
+---------------------------------------------------------------
+DM: Whats this? a d20?
+Ive never seen a 20 sided dice before. Re-Roll this one
+---------------------------------------------------------------
+--------------Results--------------
+	#1 d20:	16
+
+	Modifier: 2
+	Highest:16
+	Highest+Mod:18
+	Total(mod):18
+--------------------------------------------------------------
+--------------Results--------------
+	#1 d20:	9
+	#2 d20:	9
+	#3 d20:	9
+	#4 d20:	3
+
+	Modifier: 0
+	Highest:9
+	Highest+Mod:9
+	Total(mod):30
+--------------------------------------------------------------
+invalid die
